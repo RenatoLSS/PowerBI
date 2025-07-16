@@ -1,2 +1,2 @@
 # PowerBI
-This repository brings together a collection of projects developed with Power BI, focusing on data analysis, interactive visualization and data-driven decision making.
+Este repositório reúne uma coleção de projetos desenvolvidos com Power BI, com foco em análise de dados, visualização interativa e tomada de decisão baseada em dados.
